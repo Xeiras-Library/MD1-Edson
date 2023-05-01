@@ -69,4 +69,4 @@ A partir das informações apresentadas nessa situação hipotética, julgue o i
 48. “Considerando-se como ```p``` a proposição “Mariana acha a matemática uma área muito difícil” de
 valor logico verdadeiro e como ```q``` a proposição “Mariana tem grande apreço pela matemática” de valor lógico falso, então o valor lógico de ```p → ¬q``` é falso.
 
-** Realmente é falsa, pois Mariana acha matematica difícil, mas isso não tira o apreço que ela tem pela matemática, pelo contrário, mesmo assim ela tem apreço pela matemática **
+**Realmente é falsa, pois Mariana acha matematica difícil, mas isso não tira o apreço que ela tem pela matemática, pelo contrário, mesmo assim ela tem apreço pela matemática**
